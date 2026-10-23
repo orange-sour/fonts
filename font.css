@@ -11,6 +11,20 @@
 /* RELICTA */
 @import url('./relicta/RELICTA.css');
 
+
+/* ========================================
+   HYPERWAVE DISPLAY
+======================================== */
+
+@font-face {
+    font-family: 'Hyperwave Display';
+    src: url('./Hyperwave%20Display.otf') format('opentype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+
 /* DELICIEUX */
 @font-face {
     font-family: 'Delicieux';
