@@ -1,0 +1,16 @@
+
+/* BOGITA MONO */
+@import url('./BogitaMono/BOGITAMONO.css');
+
+/* NEVERMIND SERIF */
+@import url('./nevermind%20serif/NEVERMINDSERIF.css');
+
+
+/* DELICIEUX */
+@font-face {
+    font-family: 'Delicieux';
+    src: url('./delicieux.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
