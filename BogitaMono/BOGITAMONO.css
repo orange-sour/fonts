@@ -2,7 +2,7 @@
 /* BOGITA MONO — THIN */
 @font-face {
     font-family: 'BogitaMono';
-    src: url('https://orange-sour.github.io/code/fonts/BogitaMono/BogitaMono-Thin.otf') format('opentype');
+    src: url('https://orange-sour.github.io/fonts/BogitaMono/BogitaMono-Thin.otf') format('opentype');
     font-weight: 100;
     font-style: normal;
 }
@@ -10,7 +10,7 @@
 /* BOGITA MONO — THIN OBLIQUE */
 @font-face {
     font-family: 'BogitaMono';
-    src: url('https://orange-sour.github.io/code/fonts/BogitaMono/BogitaMono-ThinOblique.otf') format('opentype');
+    src: url('https://orange-sour.github.io/fonts/BogitaMono/BogitaMono-ThinOblique.otf') format('opentype');
     font-weight: 100;
     font-style: oblique;
 }
@@ -18,7 +18,7 @@
 /* BOGITA MONO — ULTRA LIGHT */
 @font-face {
     font-family: 'BogitaMono';
-    src: url('https://orange-sour.github.io/code/fonts/BogitaMono/BogitaMono-UltraLight.otf') format('opentype');
+    src: url('https://orange-sour.github.io/fonts/BogitaMono/BogitaMono-UltraLight.otf') format('opentype');
     font-weight: 200;
     font-style: normal;
 }
@@ -26,7 +26,7 @@
 /* BOGITA MONO — LIGHT */
 @font-face {
     font-family: 'BogitaMono';
-    src: url('https://orange-sour.github.io/code/fonts/BogitaMono/BogitaMono-Light.otf') format('opentype');
+    src: url('https://orange-sour.github.io/fonts/BogitaMono/BogitaMono-Light.otf') format('opentype');
     font-weight: 300;
     font-style: normal;
 }
@@ -34,7 +34,7 @@
 /* BOGITA MONO — LIGHT OBLIQUE */
 @font-face {
     font-family: 'BogitaMono';
-    src: url('https://orange-sour.github.io/code/fonts/BogitaMono/BogitaMono-LightOblique.otf') format('opentype');
+    src: url('https://orange-sour.github.io/fonts/BogitaMono/BogitaMono-LightOblique.otf') format('opentype');
     font-weight: 300;
     font-style: oblique;
 }
@@ -42,7 +42,7 @@
 /* BOGITA MONO — REGULAR */
 @font-face {
     font-family: 'BogitaMono';
-    src: url('https://orange-sour.github.io/code/fonts/BogitaMono/BogitaMono-Regular.otf') format('opentype');
+    src: url('https://orange-sour.github.io/fonts/BogitaMono/BogitaMono-Regular.otf') format('opentype');
     font-weight: 400;
     font-style: normal;
 }
@@ -50,7 +50,7 @@
 /* BOGITA MONO — OBLIQUE */
 @font-face {
     font-family: 'BogitaMono';
-    src: url('https://orange-sour.github.io/code/fonts/BogitaMono/BogitaMono-Oblique.otf') format('opentype');
+    src: url('https://orange-sour.github.io/fonts/BogitaMono/BogitaMono-Oblique.otf') format('opentype');
     font-weight: 400;
     font-style: oblique;
 }
@@ -58,7 +58,7 @@
 /* BOGITA MONO — MEDIUM */
 @font-face {
     font-family: 'BogitaMono';
-    src: url('https://orange-sour.github.io/code/fonts/BogitaMono/BogitaMono-Medium.otf') format('opentype');
+    src: url('https://orange-sour.github.io/fonts/BogitaMono/BogitaMono-Medium.otf') format('opentype');
     font-weight: 500;
     font-style: normal;
 }
@@ -66,7 +66,7 @@
 /* BOGITA MONO — MEDIUM OBLIQUE */
 @font-face {
     font-family: 'BogitaMono';
-    src: url('https://orange-sour.github.io/code/fonts/BogitaMono/BogitaMono-MediumOblique.otf') format('opentype');
+    src: url('https://orange-sour.github.io/fonts/BogitaMono/BogitaMono-MediumOblique.otf') format('opentype');
     font-weight: 500;
     font-style: oblique;
 }
@@ -74,7 +74,7 @@
 /* BOGITA MONO — SEMIBOLD */
 @font-face {
     font-family: 'BogitaMono';
-    src: url('https://orange-sour.github.io/code/fonts/BogitaMono/BogitaMono-SemiBold.otf') format('opentype');
+    src: url('https://orange-sour.github.io/fonts/BogitaMono/BogitaMono-SemiBold.otf') format('opentype');
     font-weight: 600;
     font-style: normal;
 }
@@ -82,7 +82,7 @@
 /* BOGITA MONO — SEMIBOLD OBLIQUE */
 @font-face {
     font-family: 'BogitaMono';
-    src: url('https://orange-sour.github.io/code/fonts/BogitaMono/BogitaMono-SemiBoldOblique.otf') format('opentype');
+    src: url('https://orange-sour.github.io/fonts/BogitaMono/BogitaMono-SemiBoldOblique.otf') format('opentype');
     font-weight: 600;
     font-style: oblique;
 }
@@ -90,7 +90,7 @@
 /* BOGITA MONO — BOLD */
 @font-face {
     font-family: 'BogitaMono';
-    src: url('https://orange-sour.github.io/code/fonts/BogitaMono/BogitaMono-Bold.otf') format('opentype');
+    src: url('https://orange-sour.github.io/fonts/BogitaMono/BogitaMono-Bold.otf') format('opentype');
     font-weight: 700;
     font-style: normal;
 }
@@ -98,7 +98,7 @@
 /* BOGITA MONO — BOLD OBLIQUE */
 @font-face {
     font-family: 'BogitaMono';
-    src: url('https://orange-sour.github.io/code/fonts/BogitaMono/BogitaMono-BoldOblique.otf') format('opentype');
+    src: url('https://orange-sour.github.io/fonts/BogitaMono/BogitaMono-BoldOblique.otf') format('opentype');
     font-weight: 700;
     font-style: oblique;
 }
@@ -106,7 +106,7 @@
 /* BOGITA MONO — ULTRABOLD OBLIQUE */
 @font-face {
     font-family: 'BogitaMono';
-    src: url('https://orange-sour.github.io/code/fonts/BogitaMono/BogitaMono-UltraBoldOblique.otf') format('opentype');
+    src: url('https://orange-sour.github.io/fonts/BogitaMono/BogitaMono-UltraBoldOblique.otf') format('opentype');
     font-weight: 800;
     font-style: oblique;
 }
@@ -114,7 +114,7 @@
 /* BOGITA MONO — BLACK */
 @font-face {
     font-family: 'BogitaMono';
-    src: url('https://orange-sour.github.io/code/fonts/BogitaMono/BogitaMono-Black.otf') format('opentype');
+    src: url('https://orange-sour.github.io/fonts/BogitaMono/BogitaMono-Black.otf') format('opentype');
     font-weight: 900;
     font-style: normal;
 }
@@ -122,7 +122,7 @@
 /* BOGITA MONO — BLACK OBLIQUE */
 @font-face {
     font-family: 'BogitaMono';
-    src: url('https://orange-sour.github.io/code/fonts/BogitaMono/BogitaMono-BlackOblique.otf') format('opentype');
+    src: url('https://orange-sour.github.io/fonts/BogitaMono/BogitaMono-BlackOblique.otf') format('opentype');
     font-weight: 900;
     font-style: oblique;
 }
