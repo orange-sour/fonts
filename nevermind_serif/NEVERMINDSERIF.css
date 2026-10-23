@@ -1,0 +1,116 @@
+
+/* ========================================
+   NEVERMIND SERIF — THIN (100)
+======================================== */
+
+@font-face {
+    font-family: 'NeverMind Serif';
+    src: url('./NeverMindSerif-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+/* ========================================
+   NEVERMIND SERIF — EXTRA LIGHT (200)
+======================================== */
+
+@font-face {
+    font-family: 'NeverMind Serif';
+    src: url('./NeverMindSerif-ExtraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+/* ========================================
+   NEVERMIND SERIF — LIGHT (300)
+======================================== */
+
+@font-face {
+    font-family: 'NeverMind Serif';
+    src: url('./NeverMindSerif-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+/* ========================================
+   NEVERMIND SERIF — REGULAR (400)
+======================================== */
+
+@font-face {
+    font-family: 'NeverMind Serif';
+    src: url('./NeverMindSerif-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+/* ========================================
+   NEVERMIND SERIF — MEDIUM (500)
+======================================== */
+
+@font-face {
+    font-family: 'NeverMind Serif';
+    src: url('./NeverMindSerif-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+/* ========================================
+   NEVERMIND SERIF — DEMI BOLD (600)
+======================================== */
+
+@font-face {
+    font-family: 'NeverMind Serif';
+    src: url('./NeverMindSerif-DemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+/* ========================================
+   NEVERMIND SERIF — BOLD (700)
+======================================== */
+
+@font-face {
+    font-family: 'NeverMind Serif';
+    src: url('./NeverMindSerif-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+/* ========================================
+   NEVERMIND SERIF — EXTRA BOLD (800)
+======================================== */
+
+@font-face {
+    font-family: 'NeverMind Serif';
+    src: url('./NeverMindSerif-Extrabold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+/* ========================================
+   NEVERMIND SERIF — HEAVY (900)
+======================================== */
+
+@font-face {
+    font-family: 'NeverMind Serif';
+    src: url('./NeverMindSerif-Heavy.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
