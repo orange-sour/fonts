@@ -58,6 +58,18 @@
     font-display: swap;
 }
 
+/* ========================================
+   VENOSE
+======================================== */
+
+@font-face {
+    font-family: 'Venose';
+    src: url('https://orange-sour.github.io/fonts/Venose.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
 
 /* ========================================
    DELICIEUX
