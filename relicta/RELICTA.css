@@ -1,0 +1,25 @@
+
+/* ========================================
+   RELICTA — LIGHT (300)
+======================================== */
+
+@font-face {
+    font-family: 'Relicta';
+    src: url('./Relicta-Light.otf') format('opentype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+/* ========================================
+   RELICTA — ULTRA BOLD ITALIC (800)
+======================================== */
+
+@font-face {
+    font-family: 'Relicta';
+    src: url('./Relicta-UltraboldItalic.otf') format('opentype');
+    font-weight: 800;
+    font-style: italic;
+    font-display: swap;
+}
