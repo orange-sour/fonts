@@ -2,12 +2,14 @@
 /* BOGITA MONO */
 @import url('./BogitaMono/BOGITAMONO.css');
 
-/* NEVERMIND SERIF */
-@import url('./nevermind%20serif/NEVERMINDSERIF.css');
-
 /* NEVERMIND COMPACT */
 @import url('./nevermind_compact/NEVERMINDCOMPACT.css');
 
+/* NEVERMIND SERIF */
+@import url('./nevermind%20serif/NEVERMINDSERIF.css');
+
+/* RELICTA */
+@import url('./relicta/RELICTA.css');
 
 /* DELICIEUX */
 @font-face {
