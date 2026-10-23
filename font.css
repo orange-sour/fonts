@@ -1,38 +1,45 @@
-/* <link rel="stylesheet" href="https://orange-sour.github.io/fonts/fonts.css"> */
-/* BOGITA MONO */
-@import url('./BogitaMono/BOGITAMONO.css');
-
-/* NEVERMIND COMPACT */
-@import url('./nevermind_compact/NEVERMINDCOMPACT.css');
-
-/* NEVERMIND SERIF */
-@import url('./nevermind%20serif/NEVERMINDSERIF.css');
-
 
 /* ========================================
-   IMPORT DES AUTRES POLICES
+   BOGITA MONO
 ======================================== */
 
-@import url('./BogitaMono/BOGITAMONO.css');
-@import url('./nevermind%20serif/NEVERMINDSERIF.css');
-@import url('./nevermind_compact/NEVERMINDCOMPACT.css');
+@import url('https://orange-sour.github.io/fonts/BogitaMono/BOGITAMONO.css');
 
 
 /* ========================================
-   RELICTA
+   NEVERMIND COMPACT
+======================================== */
+
+@import url('https://orange-sour.github.io/fonts/nevermind_compact/NEVERMINDCOMPACT.css');
+
+
+/* ========================================
+   NEVERMIND SERIF
+======================================== */
+
+@import url('https://orange-sour.github.io/fonts/nevermind_serif/NEVERMINDSERIF.css');
+
+
+/* ========================================
+   RELICTA — LIGHT
 ======================================== */
 
 @font-face {
     font-family: 'Relicta';
-    src: url('./relicta/Relicta-Light.otf') format('opentype');
+    src: url('https://orange-sour.github.io/fonts/relicta/Relicta-Light.otf') format('opentype');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
 }
 
+
+/* ========================================
+   RELICTA — ULTRABOLD ITALIC
+======================================== */
+
 @font-face {
     font-family: 'Relicta';
-    src: url('./relicta/Relicta-UltraboldItalic.otf') format('opentype');
+    src: url('https://orange-sour.github.io/fonts/relicta/Relicta-UltraboldItalic.otf') format('opentype');
     font-weight: 800;
     font-style: italic;
     font-display: swap;
@@ -45,7 +52,7 @@
 
 @font-face {
     font-family: 'Hyperwave Display';
-    src: url('./Hyperwave%20Display.otf') format('opentype');
+    src: url('https://orange-sour.github.io/fonts/Hyperwave%20Display.otf') format('opentype');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -58,7 +65,7 @@
 
 @font-face {
     font-family: 'Delicieux';
-    src: url('./delicieux.ttf') format('truetype');
+    src: url('https://orange-sour.github.io/fonts/delicieux.ttf') format('truetype');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
