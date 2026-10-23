@@ -1,24 +1,17 @@
 
-/* ========================================
-   RELICTA — LIGHT (300)
-======================================== */
-
+/* RELICTA — LIGHT */
 @font-face {
     font-family: 'Relicta';
-    src: url('./Relicta-Light.otf') format('opentype');
+    src: url('https://orange-sour.github.io/fonts/relicta/Relicta-Light.otf') format('opentype');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
 }
 
-
-/* ========================================
-   RELICTA — ULTRA BOLD ITALIC (800)
-======================================== */
-
+/* RELICTA — ULTRABOLD ITALIC */
 @font-face {
     font-family: 'Relicta';
-    src: url('./Relicta-UltraboldItalic.otf') format('opentype');
+    src: url('https://orange-sour.github.io/fonts/relicta/Relicta-UltraboldItalic.otf') format('opentype');
     font-weight: 800;
     font-style: italic;
     font-display: swap;
